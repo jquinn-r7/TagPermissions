@@ -25,6 +25,8 @@
         "rds:RemoveTagsFromResource",
         "ec2:CreateTags",
         "ec2:DeleteTags",
+        "ec2:DeleteSecurityGroup",
+        "ec2:ModifySecurityGroupRules",
         "s3:DeleteJobTagging",
         "s3:DeleteObjectTagging",
         "s3:DeleteObjectVersionTagging",
